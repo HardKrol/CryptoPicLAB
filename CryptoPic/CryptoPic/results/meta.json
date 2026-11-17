@@ -1,0 +1,14 @@
+{
+    "checkerboard.png": {
+        "algorithm": "aes-ctr",
+        "nonce": "31aca57e010db242898749892c9bd4f3"
+    },
+    "gradient.png": {
+        "algorithm": "aes-ctr",
+        "nonce": "3549bf2a8a3f40e5425439dccb0aa9c8"
+    },
+    "lancer.png": {
+        "algorithm": "aes-ctr",
+        "nonce": "e7365ac6dc8454639bd65265592f5068"
+    }
+}
